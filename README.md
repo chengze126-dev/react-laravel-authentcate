@@ -7,10 +7,10 @@ This project was inspired by the [Breeze Next.js](https://github.com/laravel/bre
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-orange.svg)](https://choosealicense.com/licenses/mit/)
-![GitHub repo size](https://img.shields.io/github/repo-size/dmarsal90/laravel-react-authentication?color=success&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/dmarsal90/laravel-react-authentication?color=yellow&style=plastic)
 ![GitHub language count](https://img.shields.io/github/languages/count/dmarsal90/laravel-react-authentication?color=red)
 ![GitHub top language](https://img.shields.io/github/languages/top/dmarsal90/laravel-react-authentication?style=plastic)
-<a href="https://github.com/dmarsal90/dmarsal90"><img src="https://img.shields.io/badge/status-updating-yellow.svg"></a>
+<a href="https://github.com/dmarsal90/dmarsal90"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
 
 
 ## Introduction
