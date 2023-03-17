@@ -3,7 +3,8 @@ import {Link} from "react-router-dom";
 function App() {
 
 
-    return (<div className="bg-slate-100">
+    return (
+        <div className="bg-slate-100">
         <nav className="rounded bg-indigo-900 text-white px-2 py-2.5 sm:px-4">
             <div
                 className="container mx-auto flex flex-wrap items-center justify-between"
@@ -37,7 +38,8 @@ function App() {
                 </div>
             </div>
         </nav>
-    </div>)
+    </div>
+    )
 }
 
 export default App
