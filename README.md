@@ -59,7 +59,8 @@ Finally, run the application via `npm run dev`. The application will be availabl
 npm run dev
 ```
 
-> Note: Currently, is recommended use `localhost` during local development of your backend and frontend to avoid CORS "Same-Origin" issues.
+> **Note**  
+> Currently, we recommend using `localhost` during local development of your backend and frontend to avoid CORS "Same-Origin" issues.
 
 ## License
 
