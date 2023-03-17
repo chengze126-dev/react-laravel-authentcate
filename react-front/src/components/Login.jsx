@@ -11,7 +11,7 @@ const Login = () => {
               <div className="relative mx-auto max-w-[525px] overflow-hidden rounded-lg bg-white py-16 px-10 text-center sm:px-12 md:px-[60px]">
                 <div className="mb-10 text-center md:mb-16">Login</div>
                 <form>
-                  <div className="mb-6">
+                  <div className="mb-4">
                     <input
                       type="email"
                       placeholder="Email"
@@ -24,7 +24,7 @@ const Login = () => {
                       </span>
                     </div>
                   </div>
-                  <div className="mb-6">
+                  <div className="mb-4">
                     <input
                       type="password"
                       placeholder="Password"
