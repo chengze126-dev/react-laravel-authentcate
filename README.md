@@ -7,9 +7,9 @@ This project was inspired by the [Breeze Next.js](https://github.com/laravel/bre
 ## Badges
 
 [![MIT License](https://img.shields.io/badge/License-MIT-orange.svg)](https://choosealicense.com/licenses/mit/)
-![GitHub repo size](https://img.shields.io/github/repo-size/dmarsal90/laravel-vue?color=success&style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/dmarsal90/laravel-vue?color=red)
-![GitHub top language](https://img.shields.io/github/languages/top/dmarsal90/laravel-vue?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/dmarsal90/laravel-react-authentication?color=success&style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/dmarsal90/laravel-react-authentication?color=red)
+![GitHub top language](https://img.shields.io/github/languages/top/dmarsal90/laravel-react-authentication?style=plastic)
 
 
 ## Introduction
