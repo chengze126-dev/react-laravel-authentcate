@@ -12,13 +12,13 @@ This repository is an implementing of the [Laravel Breeze](https://laravel.com/d
 
 ### Installation
 
-First, create a Vue.js compatible Laravel backend by installing Laravel Breeze into a [fresh Laravel application](https://laravel.com/docs/installation) and installing Breeze's API scaffolding:
+First, create a React compatible Laravel backend by installing Laravel Breeze into a [fresh Laravel application](https://laravel.com/docs/installation) and installing Breeze's API scaffolding:
 
 ```bash
 # Create the Laravel application...
 laravel new api-backend
 
-cd vue-backend
+cd api-backend
 
 # Install Breeze and dependencies...
 composer require laravel/breeze
