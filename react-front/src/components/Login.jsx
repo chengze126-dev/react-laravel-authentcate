@@ -1,7 +1,15 @@
-import React from "react";
+import React, {useState} from "react";
 import { Link } from "react-router-dom";
 
+
 const Login = () => {
+  const [email, setEmail] = useState("")
+  const [password, setPassword] = useState("")
+
+  const handleLogin = async (e) => {
+    e.preventDefault();
+  }
+
   return (
     <div>
       <section className="bg-[#F4F7FF] py-20 lg:py-[120px]">
@@ -10,10 +18,12 @@ const Login = () => {
             <div className="w-full px-4">
               <div className="relative mx-auto max-w-[525px] overflow-hidden rounded-lg bg-white py-16 px-10 text-center sm:px-12 md:px-[60px]">
                 <div className="mb-10 text-center md:mb-16">Login</div>
-                <form>
+                <form onSubmit={handleLogin}>
                   <div className="mb-4">
                     <input
                       type="email"
+                      value={email}
+                      onChange={(e)=>setEmail(e.target.value)}
                       placeholder="Email"
                       className="bordder-[#E9EDF4] w-full rounded-md border bg-[#FCFDFE] py-3 px-5 text-base text-body-color
                                          placeholder-[#ACB6BE] outline-none focus:border-primary focus-visible:shadow-none"
@@ -27,6 +37,8 @@ const Login = () => {
                   <div className="mb-4">
                     <input
                       type="password"
+                      value={password}
+                      onChange={(e)=>setPassword(e.target.value)}
                       placeholder="Password"
                       className="
                     bordder-[#E9EDF4]
