@@ -19,7 +19,7 @@ This repository is an implementing of the [Laravel Breeze](https://laravel.com/d
 
 ## Documentation :world_map:
 
-### Installation
+### Installation :wrench:
 
 First, create a React compatible Laravel backend by installing Laravel Breeze into a [fresh Laravel application](https://laravel.com/docs/installation) and installing Breeze's API scaffolding:
 
