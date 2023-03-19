@@ -1,6 +1,6 @@
 # Laravel Breeze - React Edition
 
-## Inspiration
+## Inspiration :ok_hand:
 
 This project was inspired by the [Breeze Next.js](https://github.com/laravel/breeze-next) project. 🏝️
 
@@ -17,7 +17,7 @@ This project was inspired by the [Breeze Next.js](https://github.com/laravel/bre
 
 This repository is an implementing of the [Laravel Breeze](https://laravel.com/docs/starter-kits) application / authentication starter kit frontend in [React](https://react.dev/). All of the authentication boilerplate is already written for you - powered by [Laravel Sanctum](https://laravel.com/docs/sanctum), allowing you to quickly begin pairing your beautiful Rrrcat frontend with a powerful Laravel backend.
 
-## Documentation :ok_hand:
+## Documentation :world_map:
 
 ### Installation
 
