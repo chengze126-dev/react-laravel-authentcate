@@ -4,7 +4,7 @@
 
 This project was inspired by the [Breeze Next.js](https://github.com/laravel/breeze-next) project. 🏝️
 
-## Badges
+## Badges :bookmark:
 
 [![MIT License](https://img.shields.io/badge/License-MIT-orange.svg)](https://choosealicense.com/licenses/mit/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/dmarsal90/laravel-react-authentication?color=yellow&style=plastic)
