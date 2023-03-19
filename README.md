@@ -63,6 +63,6 @@ npm run dev
 > **Note**  
 > Currently, is recommended use `localhost` during local development of your backend and frontend to avoid CORS "Same-Origin" issues.
 
-## License
+## License :scroll:
 
 Laravel Breeze - React Edition is open-sourced software licensed under the [MIT license](LICENSE.md).
