@@ -12,7 +12,7 @@ This project was inspired by the [Breeze Next.js](https://github.com/laravel/bre
 ![GitHub top language](https://img.shields.io/github/languages/top/dmarsal90/laravel-react-authentication?style=plastic)
 <a href="https://github.com/dmarsal90/dmarsal90"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
 
-
+<!-- Pair Extraordinaire collaboration -->
 ## Introduction :bookmark_tabs:
 
 This repository is an implementing of the [Laravel Breeze](https://laravel.com/docs/starter-kits) application / authentication starter kit frontend in [React](https://react.dev/). All of the authentication boilerplate is already written for you - powered by [Laravel Sanctum](https://laravel.com/docs/sanctum), allowing you to quickly begin pairing your beautiful Rrrcat frontend with a powerful Laravel backend.
